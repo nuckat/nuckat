@@ -24,7 +24,8 @@ I’m an aspiring C++ developer working toward mastering the language. I dual-bo
 
 ## 🚧 Notable Projects
 - [**tyOverlay**](https://github.com/nuckat/tyOverlay) — Lightweight, real-time C++ overlay for gaming macros and system feedback. (In early development)
-- [**auto-luks-mounter**](https://github.com/nuckat/auto-luks-mounter) — A simple bash script for automatically mounting encrypted LUKS drives on Linux. 
+- [**auto-luks-mounter**](https://github.com/nuckat/auto-luks-mounter) — A simple bash script for automatically mounting encrypted LUKS drives on Linux.
+- [**toggle-context-menu**](https://github.com/nuckat/toggle-context-menu) - This ```.bat``` script for toggling between the modern & legacy right click context menu's in Windows 11. Based off [this article](https://answers.microsoft.com/en-us/windows/forum/all/restore-old-right-click-context-menu-in-windows-11/a62e797c-eaf3-411b-aeec-e460e6e5a82a) by [Sumit D - VM](https://answers.microsoft.com/en-us/profile/8b836f17-c1e9-4b5a-98cc-520ecfc08aaa) unlike the script above I wrote myself.
 - *More projects & Linux Bash Scripts coming soon...*
 
 ## 💡 Philosophy
