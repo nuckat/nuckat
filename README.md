@@ -1,3 +1,6 @@
+"From the ashes I rise a-new,
+Pursuing change to make me true." - a new me
+
 ## About Me 
 Hi, I’m Tyler. I’m currently fighting leukemia and over 600 days sober.
 
